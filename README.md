@@ -1,6 +1,13 @@
-# React + Vite
+# GenQrco
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Qrcode generator built on top of Reactjs and Vite
+
+###
+
+<div>Status</div>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2550908a-7b70-4aa6-bf3d-f240c1896f53/deploy-status)](https://app.netlify.com/sites/genqrco/deploys)
+
+###
 
 Currently, two official plugins are available:
 
