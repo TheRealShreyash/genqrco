@@ -8,6 +8,12 @@ A simple Qrcode generator built on top of Reactjs and Vite
 
 ###
 
+<h2 align="left">TechStack</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,react,js,mongodb,tailwindcss)](https://skillicons.dev)
+
+###
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
